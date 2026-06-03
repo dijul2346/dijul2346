@@ -7,9 +7,9 @@ I enjoy solving complex problems, turning ideas into functional applications, an
 ---
 
 ### ⚡ About Me
-- 🧑‍💻 Full-Stack | MERN | Python
+- 🧑‍💻 Springboot | Python
 - 🎓 B.Tech CSE | MITS
-- 🏢 **Engineering Intern @ Hatio Innovations**
+- 🏢 **SDE 1 @ Hatio Innovations**
 - 🏗️ Currently working on: **DSA Visualizer & Learning Tool**
 - 💡 I believe in: *Build fast → Break → Learn → Build better*
 
